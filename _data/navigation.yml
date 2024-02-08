@@ -11,11 +11,13 @@ docs:
   - title: "학습"
     children:
       - title: "Java"
-        url: /java/
+        url: /javas/
       - title: "Spring"
         url: /springs/
       - title: "React"
         url: /reacts/ 
+      - title: "Category"
+        url: /categories/  
   # - title: "Tag"    
   # - title: "Category"
   #   url: /categories/
