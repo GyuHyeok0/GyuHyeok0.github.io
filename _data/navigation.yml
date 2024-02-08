@@ -1,6 +1,8 @@
-# main links
-# main:
-
+main links
+main:
+  title: "Category"
+    url: /categories/ 
+    
 docs:
   - title: "대목차"
     children:
