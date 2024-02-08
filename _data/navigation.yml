@@ -2,11 +2,11 @@ main links
 main:
   title: "Category"
     url: /categories/ 
-    
-docs:
-  - title: "대목차"
-    children:
-      - title: "Category"
-        url: /categories/     
-  - title: "프로젝트"
-    children:
+
+# docs:
+#   - title: "대목차"
+#     children:
+#       - title: "Category"
+#         url: /categories/     
+#   - title: "프로젝트"
+#     children:
