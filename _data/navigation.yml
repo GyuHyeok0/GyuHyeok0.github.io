@@ -8,9 +8,14 @@ main:
     url: /search/
   
 docs:
-  - title: "학습"
+  - title: "기술적용"
     children:
       - title: "Category"
         url: /categories/     
   - title: "프로젝트"
+    children:
+      - title: "Category"
+  - title: "학습"
+    children:
+      - title: "Category"
     children:
