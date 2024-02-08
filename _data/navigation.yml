@@ -1,15 +1,16 @@
+# main links
 main:
-  - title: Coding Archive
-    url: /categories/cording-archive/
+  - title: Category
+    url: /categories/
   - title: By Year
     url: /year-archive-grid/    
   - title: Search
     url: /search/
   
-# docs:
-#   - title: "대목차"
-#     children:
-#       - title: "Coding Archive"
-#         url: /categories/cording-archive/     
-#   - title: "프로젝트"
-#     children:
+docs:
+  - title: "대목차"
+    children:
+      - title: "Category"
+        url: /categories/     
+  - title: "프로젝트"
+    children:
