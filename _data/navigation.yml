@@ -1,7 +1,6 @@
-# main links
 main:
-  - title: Category
-    url: /categories/
+  - title: Coding Archive
+    url: /categories/cording-archive/
   - title: By Year
     url: /year-archive-grid/    
   - title: Search
@@ -10,7 +9,7 @@ main:
 docs:
   - title: "대목차"
     children:
-      - title: "Category"
-        url: /categories/     
+      - title: "Coding Archive"
+        url: /categories/cording-archive/     
   - title: "프로젝트"
     children:
