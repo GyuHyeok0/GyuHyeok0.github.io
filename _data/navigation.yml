@@ -4,14 +4,18 @@
 docs:
   - title: "프로젝트"
     children:
-      - title: "Category"
-        url: /categories/
-      - title: "Tag"
-        url: /tags/
+      # - title: "Category"
+      #   url: /categories/
+      # - title: "Tag"
+      #   url: /tags/
   - title: "학습"
     children:
       - title: "Java"
         url: /javas/
+      - title: "Spring"
+        url: /springs/
+      - title: "React"
+        url: /reacts/     
   # - title: "Category"
   #   url: /categories/
   # - title: "Tag"
