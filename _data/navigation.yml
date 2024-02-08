@@ -15,7 +15,8 @@ docs:
       - title: "Spring"
         url: /springs/
       - title: "React"
-        url: /reacts/     
+        url: /reacts/ 
+  - title: "Tag"    
   # - title: "Category"
   #   url: /categories/
   # - title: "Tag"
