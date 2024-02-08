@@ -1,5 +1,7 @@
 # main links
-# main:
+main:
+  - title: /categories/
+    url: /categories/
 
 docs:
   - title: "대목차"
