@@ -8,4 +8,3 @@ author_profiles: false
 sidebar:
   nav: "docs"
 ---
-[Back to Coding](/categories/cording/)
