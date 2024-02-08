@@ -15,7 +15,8 @@ docs:
   - title: "프로젝트"
     children:
       - title: "Category"
+        url: /categories/ 
   - title: "학습"
     children:
       - title: "Category"
-    children:
+        url: /categories/ 
