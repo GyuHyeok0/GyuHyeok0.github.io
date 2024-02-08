@@ -3,10 +3,10 @@ main:
   title: "Category"
     url: /categories/ 
 
-# docs:
-#   - title: "대목차"
-#     children:
-#       - title: "Category"
+docs:
+  - title: "대목차"
+    children:
+      - title: "Category"
 #         url: /categories/     
 #   - title: "프로젝트"
 #     children:
