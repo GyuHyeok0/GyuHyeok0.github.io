@@ -5,7 +5,7 @@ main:
   - title: Search
     url: /search/
   - title: By Year
-    url: /year-archive/  
+    url: /year-archive-grid/  
 docs:
   - title: "대목차"
     children:
