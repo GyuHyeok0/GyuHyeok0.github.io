@@ -276,6 +276,9 @@ jekyll-archives:
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+collections:
+  studies:
+    output: true
 
 
 # HTML Compression
