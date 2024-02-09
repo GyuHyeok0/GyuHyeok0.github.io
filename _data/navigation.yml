@@ -12,12 +12,15 @@ main:
   
   
 docs:
-  - title: "Category"
-    url: /categories/
+  - title: "기술적용"
     children:
-      - title: "프로젝트"
-        url: /projects/ 
-      - title: "기술적용 or 문제해결"
-        url: /studies/ 
-      - title: "학습"
-        url: /studies/ 
+      - title: "Category"
+        url: /categories/     
+  - title: "프로젝트"
+    children:
+      - title: "Category"
+        url: /categories/ 
+  - title: "학습"
+    children:
+      - title: "Category"
+        url: /categories/ 
