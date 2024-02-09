@@ -270,15 +270,16 @@ jekyll-archives:
   enabled:
     - categories
     - tags
+    - studies
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
+    study: archive-taxonomy
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-collections:
-  studies:
-    output: true
+    study: /studies/:name/
+
 
 
 # HTML Compression
